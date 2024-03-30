@@ -1,8 +1,10 @@
 # Madi <nmdbzk@gmail.com>, 2021.
+# Bakhytzhan <coderkaz@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2021-07-10 04:03+0000\n"
 "Last-Translator: Madi <nmdbzk@gmail.com>\n"
+"Last-Translator: Bakhytzhan <coderkaz@gmail.com>\n"
 "Language-Team: Kazakh <http://translate.pkp.sfu.ca/projects/ojs/blocks-"
 "languageToggle/kk_KZ/>\n"
 "Language: kk_KZ\n"
