@@ -1,11 +1,11 @@
 # Gabit Aitbayev <gabit.aitbayev@ayu.edu.kz>, 2022.
 # Beibarys <beibarys_sultan@mail.ru>, 2022.
-# Bakhytzhan <coderkazg@mail.com>, 2024.
+# Bakhytzhan <coderkaz@gmail.com>, 2024.
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-05-03 16:29+0000\n"
 "Last-Translator: Beibarys <beibarys_sultan@mail.ru>\n"
-"Last-Translator: Bakhytzhan <coderkazg@mail.com>\n"
+"Last-Translator: Bakhytzhan <coderkaz@gmail.com>\n"
 "Language-Team: Kazakh <http://translate.pkp.sfu.ca/projects/ojs/admin/kk_KZ/"
 ">\n"
 "Language: kk_KZ\n"
